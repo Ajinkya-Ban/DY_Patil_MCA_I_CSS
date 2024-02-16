@@ -1,0 +1,24 @@
+.box
+{
+    width: 300px;
+    height: 300px;
+    border: 1px solid #000;
+    background-color: cornflowerblue;
+    margin: 100px auto;
+}
+.box h2
+{
+    color: white;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 22px;
+    font-weight: bold;
+    text-align: center;
+}
+.box p
+{
+    color: white;
+    text-align: justify;
+    padding: 10px;
+    font-size: 16px;
+    font-family: cursive;
+}
